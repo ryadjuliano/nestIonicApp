@@ -1,0 +1,7 @@
+{
+  "name": "juleb-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
